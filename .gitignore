@@ -1,0 +1,17 @@
+# MacOS files
+.DS_Store
+
+# IDEA editor
+.idea
+
+# Dependency directory
+# Commenting this out is preferred by some people, see
+node_modules
+package-lock.json
+
+# dotenv environment variables file
+.env
+
+# vs-code workspace
+*.code-workspace
+.vscode/

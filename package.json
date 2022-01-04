@@ -1,0 +1,15 @@
+{
+  "name": "copy_s3_files",
+  "version": "1.0.0",
+  "description": " s3 Bucket file copy to new folder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Harsha Lakmal",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1041.0",
+    "moment": "^2.29.1"
+  }
+}
